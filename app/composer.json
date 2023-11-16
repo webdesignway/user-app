@@ -1,0 +1,12 @@
+{
+
+    "autoload" :{
+
+        "psr-4": {
+            "Inc\\" : "inc/"
+        }
+    },
+    "require": {
+        "ramsey/uuid": "^4.7"
+    }
+}
