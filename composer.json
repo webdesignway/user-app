@@ -1,0 +1,24 @@
+{
+    "name" : "webdesignway/user-app" ,
+    "description" : "" ,
+    "keywords"    : [
+        
+            "wordpress" ,
+            "plugin"
+        
+    ] ,
+    "homepage" : "https://github.com/webdesignway/user-app" ,
+    "authors": [{
+
+        "name" : "David kahadze" ,
+        "homepage" : "https://toolor.local"
+    }] ,
+    "type": "wordpress-plugin" ,
+    "require": {
+
+        "php" : ">7.00"
+    }
+
+
+
+}
