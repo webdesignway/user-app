@@ -12,15 +12,17 @@ class Deactivate
 
 
 
- public static function makeDeactivation()
+ public  function makeDeactivation()
  {
-    register_deactivation_hook( __FILE__ , array('Deactivate' , 'init') );
+    $this->init();
  }
 
 
- public static function init()
+ public  function init()
  {
-    
+  
  }
+
+
 
 }
